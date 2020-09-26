@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginTest</string>
+
+    <string name="forgot_password"><u>Forgot Password</u></string>
+
+    <string name="action_settings">LogOut</string>
+    <string name="facebook_app_id">3424805754262401</string>
+
+    <string name="fb_login_protocol_scheme">fb3424805754262401</string>
+
+</resources>
